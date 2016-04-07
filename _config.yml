@@ -1,0 +1,28 @@
+name: thisexactmoment
+favicon: null
+layout_spectrum: 0.1973686006385833
+typography_spectrum: 0.3673527578357607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1960780369117856
+  lightness: 0.34124133666045964
+  saturation: 0.4723143563605845
+  rhythmicContrast: 0.7583968080580235
+purpose: []

@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Day one!Rob Kardashianhas enlisted his fiancée,Blac Chyna, to help him reach his goal weight by her 28th birthday on May 11.'
-datePublished: '2016-04-07T04:30:40.832Z'
-dateModified: '2016-04-07T04:30:01.306Z'
+datePublished: '2016-04-07T04:34:26.211Z'
+dateModified: '2016-04-07T04:30:43.290Z'
 title: 'Rob Kardashian Reveals His Weight, Enlists Fiancee Blac Chyna as His Trainer'
 author: []
+sourcePath: _posts/2016-04-07-rob-kardashian-reveals-his-weight-enlists-fiancee-blac-chyn.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-rob-kardashian-reveals-his-weight-enlists-fiancee-blac-chyn.md
-published: true
 url: rob-kardashian-reveals-his-weight-enlists-fiancee-blac-chyn/index.html
 _type: Article
 
@@ -34,7 +34,6 @@ _Keeping Up With the Kardashians_
 
 star tells the camera. 
 
-  
 After he reveals his goal weight of "210 or 200," his fiancee replies: "I think that's perfect."
 
 "Do you give me permission to train you for the next five weeks?" she later asks her man before having him get on a treadmill and start running.

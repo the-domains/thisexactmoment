@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'See why this has been called the number 1 recommended website hosting and builder on the planet. Period!'
-datePublished: '2016-04-07T04:45:41.037Z'
-dateModified: '2016-04-07T04:44:59.553Z'
+description: "Merle Haggard, the grizzled country music legend whose songs such as \"Okie from Muskogee\" and \"Fightin' Side of Me\" made him a voice for the workingman and the outsider, has died. He was 79."
+datePublished: '2016-04-07T04:49:44.153Z'
+dateModified: '2016-04-07T04:45:42.734Z'
 title: 'Merle Haggard, Country Legend, Dead at 79'
 author: []
 authors: []
@@ -25,6 +25,8 @@ _type: Article
 [See why this has been called the number 1 recommended website hosting and builder on the planet. Period!][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10c5421d-e37c-4cfc-b5d5-3a285b71f0be.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3d7a3bc-82a5-4797-beba-beb67acda02f.jpg)
+
+[See why this is the best ecommerce website builder on the planet. Period!][1]
 
 Merle Haggard, the grizzled country music legend whose songs such as "Okie from Muskogee" and "Fightin' Side of Me" made him a voice for the workingman and the outsider, has died. He was 79\.
 
@@ -156,3 +158,4 @@ He was looking forward to hitting the road despite reeling from a two-week hospi
 * 
 
 [0]: http://partners.hostgator.com/c/247150/177309/3094
+[1]: http://1.shopifytrack.com/aff_c?offer_id=2&aff_id=7529
